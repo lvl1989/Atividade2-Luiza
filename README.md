@@ -131,7 +131,8 @@ Veja a pasta `evidencias/`:
 | Item | Arquivo |
 |---|---|
 | Testes das restrições no SQL Editor | `00_sql_testes_restricoes.png` |
-| (a) Tela do Gradio no celular | `a_gradio_celular.png` |
-| (b) Mensagem de cadastro realizado | `b_gradio_cadastro_ok.png` |
-| (c) Tabelas no Table Editor do Supabase | `c1_supabase_clientes.png`, `c2_supabase_ordens_servico.png` |
+| (a) Tela do Gradio no celular | `celular_gradio.jpg` |
+| (b) Mensagem de cadastro realizado | `cadastro_realizado.jpg` |
+| (c) Tabelas no Table Editor do Supabase | `table_supabase1.png`, `table_supabase2.png`, `table_supabase3.png` |
 | (d) Painel Streamlit: consulta, edição e indicadores | `d1_streamlit_consultar.png`, `d2_streamlit_editar_excluir.png`, `d3_streamlit_indicadores.png` |
+| (e) Painel Streamlit Celular: consulta, edição e indicadores | `celular_streamlit1.jpg`, `celular_streamlit2.jpg`, `celular_streamlit3.jpg`, `celular_streamlit4.jpg`, `celular_streamlit5.jpg` |
